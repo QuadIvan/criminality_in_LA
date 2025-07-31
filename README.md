@@ -1,4 +1,4 @@
-# steam_games_project
+# games_analytics_project
 Market analysis of 110,000+ Steam games using SQL, Python & Power BI to uncover gaming industry insights and success patterns.
 
 ##  Project Overview
