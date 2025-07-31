@@ -1,5 +1,5 @@
 # games_analytics_project
-Market analysis of 110,000+ Steam games using SQL, Python & Power BI to uncover gaming industry insights and success patterns.
+Comprehensive Xbox gaming analytics using SQL, Python & Power BI to analyze user behavior, purchase patterns, and engagement across 274k+ users and multi-currency pricing data.
 
 ##  Project Overview
 [To be updated after initial exploration]
