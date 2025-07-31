@@ -7,8 +7,12 @@ Using **SQL**, **Python**, and **Power BI**, the goal is to extract actionable i
 ## 📌 Project Overview
 [To be updated after initial exploration]
 
-## ❓ Business Questions
-[Will be defined during the data discovery phase]
+## ❓ Analytical Questions
+- Has criminal activity increased in Los Angeles from 2023 to 2024?
+- Which types of crimes have become more or less frequent?
+- What are the most dangerous areas based on reported incidents?
+- Are there specific days of the week or hours with higher crime rates?
+- How do crime patterns vary across police reporting districts?
 
 ## 🧰 Tech Stack
 - **SQL (PostgreSQL):** Filtering, aggregation, and data exploration on large datasets  
