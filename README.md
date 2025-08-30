@@ -28,8 +28,8 @@ la_crime_project/
 ├── visualizations/ # Power BI files and dashboard screenshots
 └── README.md # Project documentation
 
-## 📊 Key Insights
+##  Key Insights
 [To be added once analysis is completed]
 
-## 📈 Visualizations
+## Visualizations
 [Dashboard screenshots will be included here]
