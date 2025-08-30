@@ -4,22 +4,22 @@ This project analyzes crime trends in Los Angeles using data from the official o
 
 Using **SQL**, **Python**, and **Power BI**, the goal is to extract actionable insights that could support public safety strategies — while demonstrating a complete data analysis workflow from raw data to interactive visual storytelling.
 
-## 📌 Project Overview
+## Project Overview
 [To be updated after initial exploration]
 
-## ❓ Analytical Questions
+## Analytical Questions
 - Has criminal activity increased in Los Angeles from 2023 to 2024?
 - Which types of crimes have become more or less frequent?
 - What are the most dangerous areas based on reported incidents?
 - Are there specific days of the week or hours with higher crime rates?
 - How do crime patterns vary across police reporting districts?
 
-## 🧰 Tech Stack
+##  Tech Stack
 - **SQL (PostgreSQL):** Filtering, aggregation, and data exploration on large datasets  
 - **Python (pandas, matplotlib, seaborn):** Data cleaning, feature engineering, and EDA  
 - **Power BI:** Interactive dashboards, geospatial and temporal visualizations  
 
-## 📁 Project Structure
+##  Project Structure
 
 la_crime_project/
 ├── data/ # Raw and cleaned datasets
