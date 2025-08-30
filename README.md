@@ -5,7 +5,10 @@ This project analyzes crime trends in Los Angeles using data from the official o
 Using **SQL**, **Python**, and **Power BI**, the goal is to extract actionable insights that could support public safety strategies — while demonstrating a complete data analysis workflow from raw data to interactive visual storytelling.
 
 ## Project Overview
-[To be updated after initial exploration]
+- **Goal:** Compare 2023 vs 2024 criminal activity and surface actionable insights (hotspots, crime type shifts, temporal patterns).
+- **Scope:** City of Los Angeles, reported crimes (open data portal), ~360k records for 2023–2024.
+- **Outputs:** Jupyter EDA, SQL scripts, and a Power BI dashboard with drillthrough, tooltips, and a star schema.
+
 
 ## Analytical Questions
 - Has criminal activity increased in Los Angeles from 2023 to 2024?
@@ -22,14 +25,18 @@ Using **SQL**, **Python**, and **Power BI**, the goal is to extract actionable i
 ##  Project Structure
 
 la_crime_project/
-├── data/ # Raw and cleaned datasets
-├── sql/ # SQL queries and analysis
-├── python/ # Data cleaning and EDA notebooks/scripts
-├── visualizations/ # Power BI files and dashboard screenshots
-└── README.md # Project documentation
+├── data/
+├── sql/
+├── python/
+├── powerbi/
+└── docs/
 
-##  Key Insights
-[To be added once analysis is completed]
-
+## Key Insights
+A concise selection is listed here; full notes in [`docs/KEY_FINDINGS.md`](docs/KEY_FINDINGS.md).
+- Crimes decreased **~45%** from 2023 to 2024.
+- **Vehicle — Stolen** remained the top offense; **Battery — Simple Assault** dropped sharply YoY.
+- Peak hour: **12:00 p.m.**; peak month: **October 2023**.
+- **30–39** is the most affected age group; victims are predominantly **Hispanic/Latin/Mexican**.
+- 
 ## Visualizations
 [Dashboard screenshots will be included here]
