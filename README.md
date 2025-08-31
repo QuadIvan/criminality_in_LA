@@ -22,9 +22,9 @@ Using **SQL**, **Python**, and **Power BI**, the goal is to extract actionable i
   
 - **Python (pandas, matplotlib, seaborn):** Data cleaning, feature engineering, and EDA. Full analysis in: [Python EDA](LA_crime_analysis_python.ipynb)
   
-- **Power BI:** Interactive dashboards, geospatial and temporal visualizations. Full documentation in: [Power BI analysis](docs/notes Power BI.md)
-- Power BI charts as a PDF in: [PBI LA Crimes](```docs/LA crime PBI pdf.pdf```)
-- Power BI complete interactive file in: [Power BI LA Crimes Analysis](docs/LA crime PBI.pbix) **Preview unavailable, only to be downloaded**
+- **Power BI:** Interactive dashboards, geospatial and temporal visualizations. Full documentation in: [Power BI analysis](docs/notes_Power_BI.md)
+- Power BI charts as a PDF in: [PBI LA Crimes](docs/LA_crime_PBI_pdf.pdf)
+- Power BI complete interactive file in: **Preview unavailable — file must be downloaded** [Power BI LA Crimes Analysis](docs/LA_crime_PBI.pbix) 
 
 
 ## Key Insights
