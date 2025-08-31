@@ -37,6 +37,6 @@ A concise selection is listed here; full notes in [`docs/KEY_FINDINGS.md`](docs/
 - **Vehicle — Stolen** remained the top offense; **Battery — Simple Assault** dropped sharply YoY.
 - Peak hour: **12:00 p.m.**; peak month: **October 2023**.
 - **30–39** is the most affected age group; victims are predominantly **Hispanic/Latin/Mexican**.
-- 
+  
 ## Visualizations
 [Dashboard screenshots will be included here]
