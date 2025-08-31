@@ -34,3 +34,10 @@ A concise selection is listed here; full notes in [Key Findings](docs/KEY_FINDIN
 - Peak hour: **12:00 p.m.**; peak month: **October 2023**.
 - **30–39** is the most affected age group; victims are predominantly **Hispanic/Latin/Mexican**.
   
+## Top 5 Recommendations
+
+1. **Reinforce patrols at noon (12 p.m.)**, when crimes peak, particularly focusing on theft of identity hotspots.  
+2. **Increase vehicle theft prevention efforts** in Newton, 77th Street, and Southeast, with targeted awareness campaigns and surveillance.  
+3. **Conduct deeper investigations into Hispanic/Latin victimization rates** by comparing crime reports with census data, to validate potential disproportionality.  
+4. **Prioritize crime prevention in Central Division**, which remains the most crime-heavy area and shows a smaller decline than others.  
+5. **Review case follow-up procedures**, since 83% of crimes remain under “Investigation Continues,” suggesting potential bottlenecks in resolution.  
