@@ -18,12 +18,13 @@ Using **SQL**, **Python**, and **Power BI**, the goal is to extract actionable i
 - How do crime patterns vary across police reporting districts?
 
 ##  Tech Stack
-- **SQL (PostgreSQL):** Filtering, aggregation, and data exploration on large datasets, full notes in:
-- ['SQL notes'](docs/notes_SQL.md)
-- 
-- **Python (pandas, matplotlib, seaborn):** Data cleaning, feature engineering, and EDA
-- 
-- **Power BI:** Interactive dashboards, geospatial and temporal visualizations  
+- **SQL (PostgreSQL):** Filtering, aggregation, and data exploration on large datasets. Full documentation in: ['SQL notes'](docs/notes_SQL.md)
+  
+- **Python (pandas, matplotlib, seaborn):** Data cleaning, feature engineering, and EDA. Full analysis in: [Python EDA](LA_crime_python_analysis.ipynb)
+  
+- **Power BI:** Interactive dashboards, geospatial and temporal visualizations. Full documentation in: [Power BI analysis](docs/notes Power BI.md)
+- Power BI charts as a PDF in: [PBI LA Crimes](docs/LA crime PBI pdf.pdf)
+- Power BI complete interactive file in: [Power BI LA Crimes Analysis](docs/LA crime PBI.pbix) **Preview unavailable, only to be downloaded**
 
 
 ## Key Insights
