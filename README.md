@@ -28,7 +28,7 @@ Using **SQL**, **Python**, and **Power BI**, the goal is to extract actionable i
 
 
 ## Key Insights
-A concise selection is listed here; full notes in [`docs/KEY_FINDINGS.md`](docs/KEY_FINDINGS.md).
+A concise selection is listed here; full notes in [Key Findings](docs/KEY_FINDINGS.md).
 - Crimes decreased **~45%** from 2023 to 2024.
 - **Vehicle — Stolen** remained the top offense; **Battery — Simple Assault** dropped sharply YoY.
 - Peak hour: **12:00 p.m.**; peak month: **October 2023**.
