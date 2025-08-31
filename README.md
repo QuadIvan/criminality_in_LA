@@ -20,10 +20,10 @@ Using **SQL**, **Python**, and **Power BI**, the goal is to extract actionable i
 ##  Tech Stack
 - **SQL (PostgreSQL):** Filtering, aggregation, and data exploration on large datasets. Full documentation in: ['SQL notes'](docs/notes_SQL.md)
   
-- **Python (pandas, matplotlib, seaborn):** Data cleaning, feature engineering, and EDA. Full analysis in: [Python EDA](LA_crime_python_analysis.ipynb)
+- **Python (pandas, matplotlib, seaborn):** Data cleaning, feature engineering, and EDA. Full analysis in: [Python EDA](LA_crime_analysis_python.ipynb)
   
 - **Power BI:** Interactive dashboards, geospatial and temporal visualizations. Full documentation in: [Power BI analysis](docs/notes Power BI.md)
-- Power BI charts as a PDF in: [PBI LA Crimes](docs/LA crime PBI pdf.pdf)
+- Power BI charts as a PDF in: [PBI LA Crimes](```docs/LA crime PBI pdf.pdf```)
 - Power BI complete interactive file in: [Power BI LA Crimes Analysis](docs/LA crime PBI.pbix) **Preview unavailable, only to be downloaded**
 
 
