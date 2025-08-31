@@ -19,7 +19,7 @@ Using **SQL**, **Python**, and **Power BI**, the goal is to extract actionable i
 
 ##  Tech Stack
 - **SQL (PostgreSQL):** Filtering, aggregation, and data exploration on large datasets
-- [Full notes here] (docs/notes SQL.md)
+- [Full notes here] (`docs/notes_SQL.md`)
 - 
 - **Python (pandas, matplotlib, seaborn):** Data cleaning, feature engineering, and EDA
 - 
